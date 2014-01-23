@@ -1,0 +1,11 @@
+{
+  "proxies": [
+    {
+      "name": "bamboo",
+      "clientPort": 6969,
+      "serverPort": 80,
+      "serverHost": "bamboo"
+    }
+  ],
+  "testRetryFrequency": 1000
+}

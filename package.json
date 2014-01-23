@@ -1,0 +1,15 @@
+{
+    "name": "furious-scribe",
+    "preferGlobal": "false",
+    "version": "0.0.1",
+    "author": "Alex Taylor <thatalextaylor@yahoo.com.au>",
+    "description": "",
+    "private": false,
+    "engines": {
+        "node": ">= 0.10.x"
+    },
+    "dependencies" : {
+        "log"   :  "1.x",
+        "uuid" :  "1.x"
+    }
+}
